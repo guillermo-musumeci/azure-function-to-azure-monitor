@@ -1,0 +1,1 @@
+# azure-function-to-azure-monitor
